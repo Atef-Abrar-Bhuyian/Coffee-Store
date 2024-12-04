@@ -151,7 +151,7 @@ const AddCoffee = () => {
 
 
           <div className="form-control mt-6">
-            <button className="btn btn-primary w-3/4 mx-auto">Login</button>
+            <button className="btn btn-primary w-3/4 mx-auto">Add Coffee</button>
           </div>
         </form>
       </div>
